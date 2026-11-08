@@ -9,11 +9,13 @@ C#
 .NET
 HttpClient
 System.Text.Json
+
 📌 Funcionalidades
 Consulta inicial do Pikachu para testar a conexão com a API.
 Busca de Pokémon pelo nome ou ID.
 Normalização do texto digitado utilizando .ToLower().Trim().
 Tratamento de erros HTTP, incluindo o status 404 quando um Pokémon não é encontrado.
+
 📂 Estrutura do projeto
 text
 ConsumindoAPI/
