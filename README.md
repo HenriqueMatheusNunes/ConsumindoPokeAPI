@@ -26,7 +26,7 @@ ConsumindoAPI/
 ▶️ Como executar
 Clone o repositório:
 bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/HenriqueMatheusNunes/ConsumindoPokeAPI/tree/main/ConsumindoAPI
 
 Entre na pasta do projeto:
 bash
